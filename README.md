@@ -8,4 +8,6 @@
 ## 自動販賣機
 # 程式介紹
 ## UML
+<img width="960" height="640" alt="716369933_1018639293896685_948117081954111958_n" src="https://github.com/user-attachments/assets/c121d05d-04ee-40ce-8a1f-643a20d0d916" />
+
 # 程式畫面截圖
