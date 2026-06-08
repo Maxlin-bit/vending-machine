@@ -38,6 +38,14 @@
 <img width="567" height="424" alt="螢幕擷取畫面 2026-06-07 210436" src="https://github.com/user-attachments/assets/013d57b7-5325-42ad-afb3-61fc0b2fd9b1" />
 <img width="861" height="849" alt="螢幕擷取畫面 2026-06-07 210541" src="https://github.com/user-attachments/assets/af9fc4ee-08db-44f8-9931-427ee08e06f2" />
 
+# 運行畫面
+
+<img width="502" height="532" alt="{AD5A0718-7C27-4EBB-A685-C5B6293E02E8}" src="https://github.com/user-attachments/assets/421258b8-dc53-4c78-a795-fff952eac3e5" />
+
+<img width="502" height="532" alt="image" src="https://github.com/user-attachments/assets/ff9d66a9-40c5-477a-8356-52932062897a" />
+
+<img width="302" height="282" alt="image" src="https://github.com/user-attachments/assets/f4c30e83-1329-42ca-b373-ed6aa36437f0" />
+
 # 過程所遭遇的問題
 1.終端轉換GUI時需要熟悉新的程式<br>
 2.販賣機的功能選擇
