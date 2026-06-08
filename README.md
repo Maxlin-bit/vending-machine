@@ -39,5 +39,5 @@
 <img width="861" height="849" alt="螢幕擷取畫面 2026-06-07 210541" src="https://github.com/user-attachments/assets/af9fc4ee-08db-44f8-9931-427ee08e06f2" />
 
 # 過程所遭遇的問題
-1.終端轉換GUI時需要熟悉新的程式
+1.終端轉換GUI時需要熟悉新的程式<br>
 2.販賣機的功能選擇
