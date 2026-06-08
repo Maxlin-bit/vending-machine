@@ -13,7 +13,6 @@
 
 # 程式安裝跟執行
 *使用Visual Studio需要先打開Visual Studio Installer對Visual Studio點「修改」，找到「使用C++的桌面開發」，在右方安裝詳細資料勾選(C++/CLI支援 使用.NetFramework)，然後點擊修改。<br>
-*需要額外加入CLR<br>
 ## VendingMaching:販賣機邏輯核心，負責處理大部分功能
 
 <img width="645" height="692" alt="螢幕擷取畫面 2026-06-08 143035" src="https://github.com/user-attachments/assets/c63c0036-2bba-4dff-b913-46e1a48a5b14" />
