@@ -12,24 +12,24 @@
 <img width="2816" height="1536" alt="Gemini_Generated_Image_kg8hptkg8hptkg8h" src="https://github.com/user-attachments/assets/c1cf8578-354c-4bb1-bed6-4319d90e46d5" />
 
 # 程式安裝跟執行
-*需要額外加入CRL
-VendingMaching:販賣機邏輯核心，負責處理大部分功能
+*需要額外加入CRL<br>
+## VendingMaching:販賣機邏輯核心，負責處理大部分功能
 
 <img width="645" height="692" alt="螢幕擷取畫面 2026-06-08 143035" src="https://github.com/user-attachments/assets/c63c0036-2bba-4dff-b913-46e1a48a5b14" />
 
-MyForm:主要GUI介面
+## MyForm:主要GUI介面
 
 <img width="482" height="562" alt="螢幕擷取畫面 2026-06-08 143144" src="https://github.com/user-attachments/assets/cc1513e9-1a33-4fd5-a845-f59a1a4f2a41" />
 
-LoginForm:登入管理員(補貨)系統使用之GUI
+## LoginForm:登入管理員(補貨)系統使用之GUI
 
 <img width="459" height="547" alt="螢幕擷取畫面 2026-06-08 143156" src="https://github.com/user-attachments/assets/7c4df9dc-aef2-4e7c-abc1-03fba110154d" />
 
-Money:管理投入之金額
+## Money:管理投入之金額
 
 <img width="290" height="447" alt="螢幕擷取畫面 2026-06-08 143316" src="https://github.com/user-attachments/assets/2884faa8-8930-4d00-a64b-8b52b49a5489" />
 
-Product:對單個商品進行設定
+## Product:對單個商品進行設定
 
 <img width="311" height="532" alt="螢幕擷取畫面 2026-06-08 143328" src="https://github.com/user-attachments/assets/54683bda-85c0-4287-9b80-eec8c8983c1a" />
 
