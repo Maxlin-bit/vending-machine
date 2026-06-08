@@ -12,7 +12,7 @@
 <img width="2816" height="1536" alt="Gemini_Generated_Image_kg8hptkg8hptkg8h" src="https://github.com/user-attachments/assets/c1cf8578-354c-4bb1-bed6-4319d90e46d5" />
 
 # 程式安裝跟執行
-*需要額外加入CLR<br>
+*使用Visual Studio需要額外加入CLR<br>
 ## VendingMaching:販賣機邏輯核心，負責處理大部分功能
 
 <img width="645" height="692" alt="螢幕擷取畫面 2026-06-08 143035" src="https://github.com/user-attachments/assets/c63c0036-2bba-4dff-b913-46e1a48a5b14" />
