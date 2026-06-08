@@ -12,7 +12,7 @@
 <img width="2816" height="1536" alt="Gemini_Generated_Image_kg8hptkg8hptkg8h" src="https://github.com/user-attachments/assets/c1cf8578-354c-4bb1-bed6-4319d90e46d5" />
 
 # 程式安裝跟執行
-*使用Visual Studio需要先打開Visual Studio Installer對Visual Studio點「修改」，找到「使用C++的桌面開發」，在右方安裝詳細資料勾選(C++/CLI支援 使用.NetFramework)，然後點擊修改。
+*使用Visual Studio需要先打開Visual Studio Installer對Visual Studio點「修改」，找到「使用C++的桌面開發」，在右方安裝詳細資料勾選(C++/CLI支援 使用.NetFramework)，然後點擊修改。<br>
 *需要額外加入CLR<br>
 ## VendingMaching:販賣機邏輯核心，負責處理大部分功能
 
